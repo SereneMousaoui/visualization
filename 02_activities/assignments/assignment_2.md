@@ -33,7 +33,7 @@ My bad visualization of choice:
 
       Bad Visualization - Title: Installed base of the different connected TV providers
 
-      As with the good visualization discussed above, this visualization also relies heavily on area comparisons which is difficult to compare as opposed to using lengths. A simple bar chart would communicate comparisons more effectively than this visualization. I also think. reducing the decorative elements, like the excessive colour vaiation and logos, would lower the cognitive load. I also think that sorting categories from largest to smallest would facilitate comparison.
+      As with the good visualization discussed above, this visualization also relies heavily on area comparisons which is difficult to compare as opposed to using lengths. A simple bar chart would communicate comparisons more effectively than this visualization. I also think that reducing the decorative elements, like the excessive colour variation and logos, would lower the cognitive load. I also think that sorting categories from largest to smallest would facilitate comparison.
       
 
       ```
